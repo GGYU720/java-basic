@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3a094b4-9692-4751-a59a-e773e80dd0e0" name="변경" comment="배열 도입 - 시작">
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart4.java" afterDir="false" />
+    <list default="true" id="a3a094b4-9692-4751-a59a-e773e80dd0e0" name="변경" comment="배열 도입 - 리펙토링">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705123846843</updated>
       <workItem from="1705123848273" duration="2326000" />
+      <workItem from="1705314214271" duration="650000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <option name="closed" value="true" />
@@ -118,17 +118,28 @@
       <option name="project" value="LOCAL" />
       <updated>1705129323669</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="배열 도입 - 리펙토링">
+      <option name="closed" value="true" />
+      <created>1705129490452</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705129490452</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Init Commit" />
     <MESSAGE value="클래스가 필요한 이유" />
     <MESSAGE value="배열 도입 - 시작" />
-    <option name="LAST_COMMIT_MESSAGE" value="배열 도입 - 시작" />
+    <MESSAGE value="배열 도입 - 리펙토링" />
+    <option name="LAST_COMMIT_MESSAGE" value="배열 도입 - 리펙토링" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
